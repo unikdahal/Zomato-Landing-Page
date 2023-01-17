@@ -7,7 +7,7 @@
 
 
 .hero-section{
-    background: url(images/heroSectionBackground.png);
+    background: url(../css/images/heroSectionBackground.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -173,19 +173,19 @@
 }
 
 .card1{
-    background-image: url(images/collection1.jpg);
+    background-image: url(../css/images/collection1.jpg);
 }
 
 .card2{
-    background-image: url(images/collection2.jpg);
+    background-image: url(../css/images/collection2.jpg);
 }
 
 .card3{
-    background-image: url(images/collection3.jpg);
+    background-image: url(../css/images/collection3.jpg);
 }
 
 .card4{
-    background-image: url(images/collection4.jpg);
+    background-image: url(../css/images/collection4.jpg);
 }
 
 .overlay{
