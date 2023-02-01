@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
-
+ 
 
 .hero-section{
     background: url(images/heroSectionBackground.png);
@@ -108,6 +108,7 @@
     overflow: hidden;
     border: 1px solid #e0e0e0;
     transition: all 0.3sec ease;
+    padding: 12px;
 }
 
 .we-offer-card:hover{
@@ -119,6 +120,7 @@
     height: 160px;
     object-fit: cover;
     object-position: center;
+    border-radius: 12px;
 }
 
 .we-offer-container{
